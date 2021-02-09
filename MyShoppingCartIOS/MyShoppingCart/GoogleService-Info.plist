@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>550601343847-mlmle3s6ihpp46ubgrnd6stud5pvbbmk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.550601343847-mlmle3s6ihpp46ubgrnd6stud5pvbbmk</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>550601343847-p44u31drbirc5g2jk4u8fibnc8ouornr.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAQfUQ9Ew_pjoumJb2Kb0NFg35-GDPNAyE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>550601343847</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.yonatan.MyShoppingCart</string>
+	<key>PROJECT_ID</key>
+	<string>myshoppingcart-531a9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>myshoppingcart-531a9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:550601343847:ios:d3b2df647f8021dadb25c2</string>
+	<key>DATABASE_URL</key>
+	<string>https://myshoppingcart-531a9.firebaseio.com</string>
+</dict>
+</plist>
